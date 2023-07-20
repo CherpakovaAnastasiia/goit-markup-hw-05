@@ -899,11 +899,11 @@ letter-spacing: 0.04em;
     
 }
 
-.modal-field-four {
+.modal-field-second {
     margin-bottom: 16px;
 }
 
-.modal-field-five {
+.modal-field-third {
     margin-bottom: 24px;
 }
 
@@ -920,8 +920,7 @@ letter-spacing: 0.04em;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    display: inline-block;
-    
+    display: inline-block;   
 }
 
 .policy-link {
