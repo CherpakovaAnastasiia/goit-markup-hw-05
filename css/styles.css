@@ -552,9 +552,6 @@ body {
 .footer-form {
     display: flex;
     justify-content: space-between;
-}
-
-.footer-email-label {
     gap: 24px;
 }
 
@@ -896,9 +893,18 @@ letter-spacing: 0.04em;
     position: relative;
 }
 
-.modal-field {
-    margin-bottom: 24px;
+.modal-field-first {
+    margin-bottom: 8px;
     position: relative;
+    
+}
+
+.modal-field-four {
+    margin-bottom: 16px;
+}
+
+.modal-field-five {
+    margin-bottom: 24px;
 }
 
 .modal-input-icon {
