@@ -59,11 +59,6 @@ body {
 .list {
     list-style-type: none;
 }
-
-.section {
-    padding-left: 156px;
-    padding-right: 156px;
-}
  
 .section-title {
     color: var(--navyblue);
@@ -295,10 +290,6 @@ body {
 }
 
 .possibilities-item {
-    border: 1px solid var(--cornflower, #E7E9FC);
-    background: url(<path-to-image>), lightgray -72.845px -19px / 144.444% 112.667% no-repeat;
-    width: calc((100% - 24px*2) / 3);
-    display: flex;
 }
 
 /*---------------TEAM--------------*/
@@ -453,8 +444,6 @@ body {
 .footer-main-container {
     display: flex;
     align-items: baseline;
-    flex-grow: 1;
-    justify-content: space-between;
 }
 
 .footer-container {
@@ -535,10 +524,6 @@ body {
 .footer-socials-link:hover,
 .footer-socials-link:focus {
     background-color: #31d0aa;}
-
-.footer-input {
-    margin-top: 100px;
-}
 
 .footer-input-p {
     color: var(--white, #FFF);
